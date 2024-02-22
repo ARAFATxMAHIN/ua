@@ -1,1 +1,1 @@
-
+[FBAN/Orca-Android;FBAV/346.0.0.45.60;FBPN/com.facebook.orca;FBLC/en_US;FBBV/903969335;FBCR/dtac;FBMF/samsung;FBBD/samsung;FBDV/R351 Freeform;FBSV/10;FBCA/armeabi v7a:armeabi;FBDM/{density=3.375,width=1080,height=2060};]
