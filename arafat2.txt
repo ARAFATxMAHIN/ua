@@ -1,1 +1,1 @@
-
+[FBAN/Orca-Android;FBAV/280.0.0.28.116;FBBV/259886982;FBLC/en_US;FBRV/261724288;FBCR/Telkom indonesia;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBPN/com.facebook.orca;FBDV/TECNO CE9h;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1464};]
