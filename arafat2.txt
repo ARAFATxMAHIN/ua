@@ -1,1 +1,2 @@
-[FBAN/Orca-Android;FBAV/17.0.0.4136;FBBV/4152736;FBCR/Orange GN;FBMF/samsung;FBBD/samsung;FBDV/SM-A235F;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.8125,width=1080,height=2207};FB_FW/1;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0width=1024height=552};FBLC/en_US;FBCR/Airtel;FBMF/T7Pro;FBBD/T7Pro;FBPN/com.facebook.katana;FBDV/T7 Pro;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/AXIS;FBMF/vivo;FBBD/vivo;FBDV/vivo Y20;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.29375width=1080height=2145};]
