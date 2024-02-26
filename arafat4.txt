@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.3312501width=1280height=736};FBLC/en_US;FBCR/Verizon Wireless;FBMF/Quanta;FBBD/VERIZON;FBPN/com.facebook.katana;FBDV/QMV7B;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/346.0.0.45.60;FBPN/com.facebook.orca;FBLC/en_US;FBBV/903969335;FBCR/dtac;FBMF/samsung;FBBD/samsung;FBDV/R351 Freeform;FBSV/10;FBCA/armeabi v7a:armeabi;FBDM/{density=3.375,width=1080,height=2060};]
