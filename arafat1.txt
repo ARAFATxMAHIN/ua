@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/vule id ay;FBMF/vivo ai phone a;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1934;FBSV/7;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/317.0.0.51.119;FBBV/283419120;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Tata Docomo;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LM-Q815L;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/82.0.0.4829;FBBV/4466681;FBCR/VIVO;FBMF/samsung;FBBD/samsung;FBDV/SM-G780G;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2168};FB_FW/1;]
