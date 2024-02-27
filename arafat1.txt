@@ -1,2 +1,2 @@
-[FBAN/Orca-Android;FBAV/82.0.0.4829;FBBV/4466681;FBCR/VIVO;FBMF/samsung;FBBD/samsung;FBDV/SM-G780G;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2168};FB_FW/1;]
-[FBAN/Orca-Android;FBAV/17.0.0.4136;FBBV/4152736;FBCR/Orange GN;FBMF/samsung;FBBD/samsung;FBDV/SM-A235F;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.8125,width=1080,height=2207};FB_FW/1;]
+[FBAN/FB4A;FBAV/364.1.0.25.132;FBBV/312816921;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Grameenphone;FBMF/F2 MOBILE;FBBD/F2 Mobile;FBPN/com.facebook.katana;FBDV/i8_ROKR;FBSV/11;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/406.0.0.26.90;FBBV/440212037;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/null;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A705YN;FBSV/11.3.1;nullFBCA/armeabi-v7a:armeabi;]
