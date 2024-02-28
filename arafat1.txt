@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/374.0.0.20.109;FBBV/381462200;FBDM/{density=2.0,width=720,height=1456};FBLC/en_US;FBRV/382083935;FBCR/1010;FBMF/Green;FBBD/Green;FBPN/com.facebook.katana;FBDV/GREEN 2020;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/41.0.0.80.19;FBPN/com.facebook.katana;FBLC/en_US;FBBV/344481889;FBCR/Vodafone UA;FBMF/samsung;FBBD/samsung;FBDV/SPH-i325 Ace;FBSV/9.2;FBCA/arm64-v8a:;FBDM/{density=2.0,width=2015,height=405};FB_FW/1;]
