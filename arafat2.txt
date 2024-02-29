@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/372.0.0.39.42;FBPN/com.facebook.katana;FBLC/en_US;FBBV/142599979;FBCR/T-MobileA;FBMF/OPPO;FBBD/OPPO;FBDV/A78;FBSV/15.6.1;FBCA/x86:armeabi-v7a;FBDM/{density=2.075,width=720,height=1445};FB_FW/1;]
+[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034642;FBDM/{density=2.0,width=720,height=1188};FBLC/en_US;FBCR/GCELL;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-D724;FBSV/5.0.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
