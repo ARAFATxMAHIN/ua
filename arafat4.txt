@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/134.0.0.46.68;FBBV/268337892;FBRV/0;FBPN/com.facebook.katana;FBLC/ro_RO;FBMF/Oppo;FBBD/Oppo;FBDV/Oppo 36 Pro;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/45904160;FBCR/Orange Cm;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2120;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
